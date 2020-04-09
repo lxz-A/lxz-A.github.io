@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lxz-a.github.io/</id>
     <title>lxz-进步青年</title>
-    <updated>2020-04-08T13:24:16.483Z</updated>
+    <updated>2020-04-09T13:22:19.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lxz-a.github.io/"/>
     <link rel="self" href="https://lxz-a.github.io/atom.xml"/>
@@ -10,6 +10,45 @@
     <logo>https://lxz-a.github.io/images/avatar.png</logo>
     <icon>https://lxz-a.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, lxz-进步青年</rights>
+    <entry>
+        <title type="html"><![CDATA[为用户服务，就应该从用户视角看]]></title>
+        <id>https://lxz-a.github.io/post/wei-yong-hu-fu-wu-jiu-ying-gai-cong-yong-hu-shi-jiao-kan/</id>
+        <link href="https://lxz-a.github.io/post/wei-yong-hu-fu-wu-jiu-ying-gai-cong-yong-hu-shi-jiao-kan/">
+        </link>
+        <updated>2020-04-09T13:17:27.000Z</updated>
+        <content type="html"><![CDATA[<p>今天受人之托编辑一条朋友圈文案，就是开张打广告的那种</p>
+<p>自己的专业不是设计，也不是营销</p>
+<p>鉴于自己比较感兴趣也乐得帮忙就承担下了这个小任务</p>
+<p>为了避免单调在编辑了文案之后又打算做个H5试试</p>
+<p>这又涉及到了logo设计</p>
+<p>对我来说确实很难</p>
+<p>但是想到了这个宣传的受众的群体，并不会细究logo的合理性</p>
+<p>可以总结这次logo的设计作用如下：</p>
+<ol>
+<li>增加页面的元素</li>
+<li>统一视觉效果</li>
+</ol>
+<p>所以就用一个行业相关的元素+店名简单处理做了logo</p>
+<figure data-type="image" tabindex="1"><img src="https://lxz-a.github.io//post-images/1586438326287.jpg" alt="LOGO图" loading="lazy"></figure>
+<p>做完这个H5之后为了确保它尽可能的优秀，我就询问了身边朋友的意见，他们反馈说</p>
+<blockquote>
+<p>这个页面的颜色有点太深沉，不太喜庆</p>
+</blockquote>
+<p>然后我就回答说</p>
+<blockquote>
+<p>这是这个行业比较流行的一个配色，看起来比较高级</p>
+</blockquote>
+<p>这位朋友回答说</p>
+<blockquote>
+<p>那可能是我不懂，但是看的这个的人大多数都是我这个水平</p>
+</blockquote>
+<p>说实话这句话确实触动了我，在刚开始做logo的时候我就想到了要从受众角度去考虑</p>
+<p>但是具体做设计的时候却又没有很细致的考虑这个问题</p>
+<p>这可能是很多人刚开始做设计或者是做产品时候的一个错误</p>
+<p>我们用尽可能专业的知识去完成设计（产品），却往往没有充分考虑受众的视角</p>
+<p>这次尝试得出的这条经验是珍贵的，成功的设计一定是人性化的，多从用户视角考虑产品是设计小白提升的小技巧。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Start，My Blog]]></title>
         <id>https://lxz-a.github.io/post/startmy-blog/</id>
